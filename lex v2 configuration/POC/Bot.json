@@ -1,0 +1,8 @@
+{
+  "name": "POC",
+  "version": "DRAFT",
+  "description": null,
+  "identifier": "KSJRPW2U07",
+  "dataPrivacy": { "childDirected": true },
+  "idleSessionTTLInSeconds": 300
+}

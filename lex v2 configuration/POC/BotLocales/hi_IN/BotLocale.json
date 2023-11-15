@@ -1,0 +1,8 @@
+{
+  "name": "Hindi (India)",
+  "identifier": "hi_IN",
+  "version": null,
+  "description": null,
+  "voiceSettings": { "voiceId": "Kajal", "engine": "neural" },
+  "nluConfidenceThreshold": 0.4
+}

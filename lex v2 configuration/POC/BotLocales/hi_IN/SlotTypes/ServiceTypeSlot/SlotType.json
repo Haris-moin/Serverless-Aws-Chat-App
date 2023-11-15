@@ -1,0 +1,23 @@
+{
+  "name": "ServiceTypeSlot",
+  "identifier": "NEESADZSJG",
+  "description": null,
+  "slotTypeValues": [
+    { "synonyms": null, "sampleValue": { "value": "shifting service." } },
+    { "synonyms": null, "sampleValue": { "value": "shifting services." } },
+    { "synonyms": null, "sampleValue": { "value": "shiftingservice." } },
+    { "synonyms": null, "sampleValue": { "value": "shiftingService." } },
+    { "synonyms": null, "sampleValue": { "value": "shifting" } },
+    { "synonyms": null, "sampleValue": { "value": "property service" } },
+    { "synonyms": null, "sampleValue": { "value": "propertyservice" } },
+    { "synonyms": null, "sampleValue": { "value": "propertySearchService" } },
+    { "synonyms": null, "sampleValue": { "value": "property search" } },
+    { "synonyms": null, "sampleValue": { "value": "property search service" } }
+  ],
+  "parentSlotTypeSignature": null,
+  "valueSelectionSetting": {
+    "advancedRecognitionSetting": { "audioRecognitionStrategy": null },
+    "resolutionStrategy": "ORIGINAL_VALUE",
+    "regexFilter": null
+  }
+}
